@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: groovy-3.0.7.jar groovy-ant-3.0.7.jar groovy-astbuilder-3.
+ 0.7.jar groovy-console-3.0.7.jar groovy-datetime-3.0.7.jar groovy-dat
+ eutil-3.0.7.jar groovy-groovydoc-3.0.7.jar groovy-json-3.0.7.jar groo
+ vy-nio-3.0.7.jar groovy-sql-3.0.7.jar groovy-templates-3.0.7.jar groo
+ vy-test-3.0.7.jar groovy-xml-3.0.7.jar javaparser-core-3.17.0.jar gra
+ dle-api-7.0.jar kotlin-stdlib-1.4.31.jar kotlin-stdlib-common-1.4.31.
+ jar kotlin-stdlib-jdk7-1.4.31.jar kotlin-stdlib-jdk8-1.4.31.jar kotli
+ n-reflect-1.4.31.jar gradle-installation-beacon-7.0.jar junit-3.8.2.j
+ ar
+Main-Class: MusicPlayer.Player
+
